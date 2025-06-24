@@ -34,11 +34,6 @@ This project develops a digital twin-based system that enhances pedestrian safet
 
 If you use this codebase or refer to our work in your research, please cite the following paper:
 
-**Digital Twin for Pedestrian Safety Warning at a Single Urban Traffic Intersection**  
-Yongjie Fu, Mehmet K. Turkcan, Vikram Anantha, Zoran Kostic, Gil Zussman, Xuan Di  
-*IEEE Intelligent Vehicles Symposium (IV), 2024*  
-[DOI: 10.1109/IV55156.2024.10588544](https://ieeexplore.ieee.org/document/10588544)
-
 ### BibTeX
 
 ```bibtex
