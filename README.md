@@ -30,3 +30,24 @@ This project develops a digital twin-based system that enhances pedestrian safet
 
 - **CARLA Simulation (optional):**  
   Digital twin implementation in CARLA for virtual testing and hardware-in-the-loop validation.
+## 📚 Citation
+
+If you use this codebase or refer to our work in your research, please cite the following paper:
+
+**Digital Twin for Pedestrian Safety Warning at a Single Urban Traffic Intersection**  
+Yongjie Fu, Mehmet K. Turkcan, Vikram Anantha, Zoran Kostic, Gil Zussman, Xuan Di  
+*IEEE Intelligent Vehicles Symposium (IV), 2024*  
+[DOI: 10.1109/IV55156.2024.10588544](https://ieeexplore.ieee.org/document/10588544)
+
+### BibTeX
+
+```bibtex
+@inproceedings{fu2024digital,
+  title     = {Digital Twin for Pedestrian Safety Warning at a Single Urban Traffic Intersection},
+  author    = {Fu, Yongjie and Turkcan, Mehmet K. and Anantha, Vikram and Kostic, Zoran and Zussman, Gil and Di, Xuan},
+  booktitle = {2024 IEEE Intelligent Vehicles Symposium (IV)},
+  pages     = {2640--2645},
+  year      = {2024},
+  organization = {IEEE},
+  doi       = {10.1109/IV55156.2024.10588544}
+}
